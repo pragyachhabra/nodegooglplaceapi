@@ -1,4 +1,4 @@
-# Build Simple Website with NodeJS, Express & EJS view engine
+# Build Simple Website and google place api with NodeJS, Express & EJS view engine
 
 ## Document
 * Clone this repo: ``` git clone https://github.com/pragyachhabra/nodegooglplaceapi.git ```
